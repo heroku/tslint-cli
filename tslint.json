@@ -1,0 +1,15 @@
+{
+  "extends": [
+    "tslint:recommended",
+    "tslint-config-prettier"
+  ],
+  "rules": {
+    "curly": {"severity": "off"},
+    "max-classes-per-file": {"severity": "off"},
+    "member-access": {"severity": "off"},
+    "no-empty": {"severity": "off"},
+    "no-shadowed-variable": {"severity": "off"},
+    "no-var-requires": {"severity": "off"},
+    "prefer-const": {"severity": "off"}
+  }
+}

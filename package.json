@@ -1,0 +1,15 @@
+{
+  "name": "tslint-cli-engine",
+  "description": "tslint rules for cli-engine",
+  "version": "0.0.0",
+  "author": "Jeff Dickey @jdxcode",
+  "files": [
+    "tslint.json"
+  ],
+  "license": "ISC",
+  "main": "tslint.json",
+  "repository": "https://github.com/heroku/tslint-cli-engine",
+  "dependencies": {
+    "tslint-config-prettier": "*"
+  }
+}
