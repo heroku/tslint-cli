@@ -10,6 +10,7 @@
     "no-empty": false,
     "no-shadowed-variable": false,
     "no-var-requires": false,
-    "prefer-const": false
+    "prefer-const": false,
+    "variable-name": false
   }
 }
