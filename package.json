@@ -3,13 +3,13 @@
   "description": "tslint rules for cli-engine",
   "version": "1.0.0",
   "author": "Jeff Dickey @jdxcode",
+  "dependencies": {
+    "tslint-config-prettier": "*"
+  },
   "files": [
     "tslint.json"
   ],
   "license": "ISC",
   "main": "tslint.json",
-  "repository": "https://github.com/heroku/tslint-cli-engine",
-  "dependencies": {
-    "tslint-config-prettier": "*"
-  }
+  "repository": "https://github.com/heroku/tslint-cli-engine"
 }
