@@ -4,6 +4,7 @@
     "tslint-config-prettier"
   ],
   "rules": {
+    "array-type": false,
     "curly": false,
     "max-classes-per-file": false,
     "member-access": false,
