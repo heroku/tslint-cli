@@ -1,6 +1,6 @@
 {
-  "name": "tslint-cli-engine",
-  "description": "tslint rules for cli-engine",
+  "name": "@heroku/tslint-cli",
+  "description": "tslint rules for Heroku CLI client code",
   "version": "1.0.3",
   "author": "Jeff Dickey @jdxcode",
   "dependencies": {
@@ -11,5 +11,5 @@
   ],
   "license": "ISC",
   "main": "tslint.json",
-  "repository": "https://github.com/heroku/tslint-cli-engine"
+  "repository": "heroku/tslint-cli"
 }
