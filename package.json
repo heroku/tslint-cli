@@ -1,5 +1,5 @@
 {
-  "name": "@heroku/tslint-cli",
+  "name": "@heroku-cli/tslint",
   "description": "tslint rules for Heroku CLI client code",
   "version": "1.0.3",
   "author": "Jeff Dickey @jdxcode",
