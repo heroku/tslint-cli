@@ -1,6 +1,7 @@
 {
   "extends": [
     "tslint:recommended",
+    "rxjs-tslint-rules",
     "tslint-config-prettier"
   ],
   "rules": {
@@ -15,6 +16,8 @@
     "object-literal-sort-keys": false,
     "ordered-imports": { "severity": "error", "options": {"grouped-imports": true} },
     "prefer-const": false,
+    "rxjs-add": { "severity": "error" },
+    "rxjs-no-unused-add": { "severity": "error" },
     "variable-name": false
   }
 }

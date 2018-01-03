@@ -4,6 +4,8 @@
   "version": "1.0.3",
   "author": "Jeff Dickey @jdxcode",
   "dependencies": {
+    "rxjs-tslint-rules": "^3.3.0",
+    "tslint": "^5.8.0",
     "tslint-config-prettier": "*"
   },
   "files": [
