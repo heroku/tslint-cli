@@ -2,7 +2,7 @@
   "name": "@heroku-cli/tslint",
   "description": "tslint rules for Heroku CLI client code",
   "version": "1.1.4",
-  "author": "Jeff Dickey @jdxcode",
+  "author": "Heroku",
   "dependencies": {
     "tslint": "^5.8.0",
     "tslint-config-prettier": "*"
@@ -10,7 +10,7 @@
   "files": [
     "tslint.json"
   ],
-  "license": "ISC",
+  "license": "Apache 2.0",
   "main": "tslint.json",
   "repository": "heroku/tslint-cli"
 }
