@@ -4,7 +4,7 @@
   "version": "1.1.4",
   "author": "Heroku",
   "dependencies": {
-    "tslint": "^5.8.0",
+    "tslint": "^6.1.3",
     "tslint-config-prettier": "*"
   },
   "files": [
